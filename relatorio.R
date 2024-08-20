@@ -1,0 +1,17 @@
+## Carretar Pacotes 
+
+library(readxl)
+library(tidyquant)
+library(timetk)
+library(lubridate)
+library(tstools)
+library(scales)
+library(knitr)
+library(tibble)
+library(ggplot2)
+library(dplyr)
+library(DT)
+library(magrittr)
+library(openxlsx)
+library(shiny)
+library(stringr)
